@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
     >
       <div className="container mx-auto text-center">
         <h1 className="text-4xl md:text-6xl font-extrabold leading-tight mb-4">
-          Expert Plumbing & Joinery Solutions
+          Expert Joinery Solutions & Plumbing
         </h1>
         <p className="text-lg md:text-xl mb-8 text-gray-200">
           Reliable, efficient, and high-quality services you can trust.
